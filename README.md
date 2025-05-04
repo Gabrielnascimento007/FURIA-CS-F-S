@@ -83,6 +83,8 @@ Landing page com stats e acesso ao bot
 
 Web chat para quem não usa Telegram
 
+-------------------------------------------------------------------------------------------------------
+
 🤝 Contribuição
 Sinta-se livre para abrir issues, pull requests ou sugerir melhorias!
 Esse projeto é feito por fãs, para fãs 💜🖤
