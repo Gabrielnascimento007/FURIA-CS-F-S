@@ -4,10 +4,15 @@ Permite que fãs acompanhem os próximos jogos, vejam o line-up do time, partici
 
 🚀 Funcionalidades
 Comando	Descrição
+
 /start	Exibe mensagem de boas-vindas e os comandos disponíveis
+
 /proximosjogos	Lista atualizada dos próximos jogos da FURIA
+
 /jogadores	Mostra o line-up atual da equipe
+
 /quiz	Envia perguntas sobre a FURIA com pontuação (modo quiz Telegram)
+
 /loja	Link para a loja oficial da FURIA
 
 🛠️ Tecnologias Utilizadas
