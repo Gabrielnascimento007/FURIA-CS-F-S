@@ -1,0 +1,18 @@
+C:\Users\User\RocketSeat\ChatBot Furia\ChatBot Furia\bin\Debug\net8.0\ChatBot Furia.exe
+C:\Users\User\RocketSeat\ChatBot Furia\ChatBot Furia\bin\Debug\net8.0\ChatBot Furia.deps.json
+C:\Users\User\RocketSeat\ChatBot Furia\ChatBot Furia\bin\Debug\net8.0\ChatBot Furia.runtimeconfig.json
+C:\Users\User\RocketSeat\ChatBot Furia\ChatBot Furia\bin\Debug\net8.0\ChatBot Furia.dll
+C:\Users\User\RocketSeat\ChatBot Furia\ChatBot Furia\bin\Debug\net8.0\ChatBot Furia.pdb
+C:\Users\User\RocketSeat\ChatBot Furia\ChatBot Furia\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\User\RocketSeat\ChatBot Furia\ChatBot Furia\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\User\RocketSeat\ChatBot Furia\ChatBot Furia\obj\Debug\net8.0\ChatBot Furia.csproj.AssemblyReference.cache
+C:\Users\User\RocketSeat\ChatBot Furia\ChatBot Furia\obj\Debug\net8.0\ChatBot Furia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RocketSeat\ChatBot Furia\ChatBot Furia\obj\Debug\net8.0\ChatBot Furia.AssemblyInfoInputs.cache
+C:\Users\User\RocketSeat\ChatBot Furia\ChatBot Furia\obj\Debug\net8.0\ChatBot Furia.AssemblyInfo.cs
+C:\Users\User\RocketSeat\ChatBot Furia\ChatBot Furia\obj\Debug\net8.0\ChatBot Furia.csproj.CoreCompileInputs.cache
+C:\Users\User\RocketSeat\ChatBot Furia\ChatBot Furia\obj\Debug\net8.0\ChatBot .C598CD5A.Up2Date
+C:\Users\User\RocketSeat\ChatBot Furia\ChatBot Furia\obj\Debug\net8.0\ChatBot Furia.dll
+C:\Users\User\RocketSeat\ChatBot Furia\ChatBot Furia\obj\Debug\net8.0\refint\ChatBot Furia.dll
+C:\Users\User\RocketSeat\ChatBot Furia\ChatBot Furia\obj\Debug\net8.0\ChatBot Furia.pdb
+C:\Users\User\RocketSeat\ChatBot Furia\ChatBot Furia\obj\Debug\net8.0\ChatBot Furia.genruntimeconfig.cache
+C:\Users\User\RocketSeat\ChatBot Furia\ChatBot Furia\obj\Debug\net8.0\ref\ChatBot Furia.dll
