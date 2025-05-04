@@ -2,6 +2,8 @@
 🔥 Bot oficial da torcida FURIA no Telegram!
 Permite que fãs acompanhem os próximos jogos, vejam o line-up do time, participem de quizzes interativos, acompanhem partidas ao vivo e interajam com um simulador de torcida!
 
+-------------------------------------------------------------------------------------------------------
+
 🚀 Funcionalidades
 Comando	Descrição
 
@@ -15,6 +17,8 @@ Comando	Descrição
 
 /loja	Link para a loja oficial da FURIA
 
+-------------------------------------------------------------------------------------------------------
+
 🛠️ Tecnologias Utilizadas
 .NET 7.0
 
@@ -23,6 +27,8 @@ Telegram.Bot API
 C#
 
 MarkdownV2 para mensagens formatadas
+
+-------------------------------------------------------------------------------------------------------
 
 ChatBot_Furia/
 │
@@ -36,6 +42,8 @@ ChatBot_Furia/
 │   ├── QuizService.cs          # Perguntas e lógica do quiz
 │   ├── LiveStatusService.cs    # Status ao vivo das partidas
 │   └── TorcidaService.cs       # (em construção)
+
+-------------------------------------------------------------------------------------------------------
 
 🧪 Como Executar Localmente
 Clone o repositório
@@ -61,8 +69,8 @@ bash
 Copiar
 Editar
 dotnet run
-📹 Demonstração (em vídeo)
-🎥 Em breve: vídeo demonstrando os comandos em ação
+
+-------------------------------------------------------------------------------------------------------
 
 🧠 Ideias Futuras
 Integração com API HLTV ou PandaScore para partidas reais
