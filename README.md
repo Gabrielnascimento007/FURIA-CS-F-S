@@ -1,4 +1,4 @@
-🦾 Bot da FURIA – Telegram Fan Bot
+# 🦾 Bot da FURIA – Telegram Fan Bot
 🔥 Bot oficial da torcida FURIA no Telegram!
 Permite que fãs acompanhem os próximos jogos, vejam o line-up do time, participem de quizzes interativos, acompanhem partidas ao vivo e interajam com um simulador de torcida!
 
